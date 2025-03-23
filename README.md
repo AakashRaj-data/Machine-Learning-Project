@@ -1,4 +1,3 @@
-# Machine-Learning-Project
 ## Yes Bank stock closing price prediction
 ![image](https://github.com/DeepanshuThakur06/Machine-learning-project/assets/150110307/6b585e4b-a67b-4b9f-ba2f-bea2788f0aed)
 ### Overview
